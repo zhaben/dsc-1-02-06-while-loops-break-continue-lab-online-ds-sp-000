@@ -19,7 +19,7 @@ Use while loops to perform the below operations and get the expected return valu
 slices_of_pie = 6
 slices_eaten = 0
 # use a while loop to eat each slice of pie
-# add eaxh slice to the slices_eaten variable
+# add each slice to the slices_eaten variable
 ```
 
 
