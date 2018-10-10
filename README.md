@@ -29,7 +29,7 @@ number_of_cooked_pancakes = 0
 # use a while loop to make yourself 5 pancakes for breakfast
 # each pancake takes 27 seconds to cook on each side
 # you must decrease the time_for_breakfast each time you 
-# add a pancake to the skilled or flip a pancake (i.e. 2 times per pancake)
+# add a pancake to the skillet (frying pan) or flip a pancake (i.e. 2 times per pancake)
 # there is only room for one pancake at a time
 ```
 
