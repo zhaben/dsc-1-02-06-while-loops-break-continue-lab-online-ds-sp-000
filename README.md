@@ -33,6 +33,8 @@ number_of_cooked_pancakes = 0
 # there is only room for one pancake at a time
 ```
 
+## For Loops
+
 > **Hint:** You may find the [remove method](https://www.programiz.com/python-programming/methods/list/remove) to be useful for the next problem
 
 
@@ -75,7 +77,6 @@ for person in people:
 
 ```python
 # use a for loop to create a list of the cat owners who are under the age of 28
-# remember to use break and continue to make your code more efficient
 cat_owners = None
 # for loop goes here
 ```
@@ -91,18 +92,8 @@ thirty_something_yr_old = None
 
 ```python
 # use a for loop to create a list of person names and another list of pet names for all dog owners
-# remember to use break and or continue statements
 dog_owner_names = None
 dog_names = None
-# for loop goes here
-```
-
-
-```python
-# use a for loop to create a list of person names and another list of pet names for all cat owners this time
-# remember to use break and or continue statements
-cat_owner_names = None
-cat_names = None
 # for loop goes here
 ```
 
